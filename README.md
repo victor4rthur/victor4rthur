@@ -24,4 +24,4 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor4rthur&theme=default) &nbsp;&nbsp;&nbsp; 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor4rthur&show_icons=true&locale=en&layout=compact" alt="victor4rthur" /></p>
